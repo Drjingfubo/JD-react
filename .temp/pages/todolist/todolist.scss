@@ -1,0 +1,17 @@
+@import "~taro-ui/dist/style/components/button.scss";
+@import "~taro-ui/dist/style/components/loading.scss";
+.btn{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.input{
+    display: inline-block;
+    width: 400px;
+    margin: 20px;
+    border: 1px solid #666;
+    vertical-align: middle;
+}
+.list{
+    padding: 20px;
+}
